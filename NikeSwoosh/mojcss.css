@@ -1,0 +1,66 @@
+#glavni{
+	width:900px;
+	height:900px;	
+	margin:0 auto;	
+	float:right;
+	margin-right:20%;
+}
+
+#zgornji{
+	width:900px;	
+	height:450px;	
+	margin:0 auto;
+	background: url(TV.png) no-repeat center center;
+}
+
+#spodnji{
+	width:900px;
+	height:450px;
+	margin:0 auto;
+	
+}
+
+#slika{
+	width:123px;
+	height:400px;
+	margin:10px auto;
+	background: url(remotetv.png) no-repeat center center;
+}
+
+#slika2{
+	width:100px;
+	height:36px;
+	margin:170px auto;
+	
+	
+}
+
+#gumb1{
+	position: absolute;
+	margin:51px 0px 0px 13px ;
+}
+
+#gumb2{
+	position: absolute;
+	margin:51px 0px 0px 48px ;
+}
+
+#close{
+	position: absolute;
+	margin:25px 0px 0px 84px ;
+}
+
+​#moj{
+	
+	position: absolute;	
+		
+}​
+
+#canvas{
+	
+	float: left;
+}
+
+#original{
+	margin-left: 150px;
+}
